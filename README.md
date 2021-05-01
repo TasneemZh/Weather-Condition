@@ -8,7 +8,7 @@ NOTE: **don't do the first bulleted step if you have installed nodemon before**
 
 - Moving to the directory where you cloned the project (Use cd)
 
-- `nodemon (app.js)` on your HyperTerminal
+- Typing `nodemon (app.js)`
 
 NOTE: Specifying *app.js* after *nodemon* is **optional** since it is determined to be the main file in *package.JSON*
 
