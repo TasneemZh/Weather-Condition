@@ -8,6 +8,8 @@ NOTE: **don't do the first bulleted step if you have installed nodemon before**
 
 - Moving to the directory where you cloned the project (Use cd)
 
-- Typing `nodemon` or `nodemon app.js`
+- `nodemon (app.js)` on your HyperTerminal
 
-2 - Enter the url: "localhost:3000/"
+NOTE: Specifying *app.js* after *nodemon* is **optional** since it is determined to be the main file in *package.JSON*
+
+2 - Enter the url: http://localhost:3000/
